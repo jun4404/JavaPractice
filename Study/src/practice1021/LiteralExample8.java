@@ -1,0 +1,12 @@
+package practice1021;
+
+public class LiteralExample8 {
+
+	public static void main(String[] args) {
+		String str = "»ì¾î¸® »ì¾î¸®¶ù´Ù Ã»»ê¿¡ »ì¾î¸®¶ù´Ù " +
+					 "¸Ó·ç¶û ´Ù·¡¶û ¸Ô°í Ã»»ê¿¡ »ì¾î¸®¶ù´Ù " +
+					 "¾â¸®¾â¸® ¾â¶ó¼Í ¾â¶ó¸® ¾â¶ó";
+		System.out.println(str);
+	}
+
+}
